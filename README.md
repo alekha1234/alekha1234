@@ -12,7 +12,7 @@
 - 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing**
 - 📫 How to reach me **gujurialekha@gmail.com**
 - 👨‍💻 All of my projects are available at **https://alekha1234.github.io/gujurialekha.github.io/**
-- ⚡ Fun fact **I love work Smartly......**
+- ⚡ Fun fact **I work Smartly......**
 
 <div> 
   <a href="https://www.linkedin.com/in/gujuri-alekha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       
