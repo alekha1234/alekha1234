@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekha1234&theme=tokyonight" alt="alekha1234" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone Projects**
-- 🌱 I’m currently learning **Airtificial Intelligent**
-- 💬 Ask me about **Machine Learning , Computer Vision , Natural Language Processing**
+- 🔭 I’m currently working on **Personal Project**
+- 🌱 I’m currently learning **Generative AI**
+- 💬 Ask me about **Machine Learning, Computer Vision, Natural Language Processing**
 - 📫 How to reach me **gujurialekha@gmail.com**
 - 👨‍💻 All of my projects are available at **https://alekha1234.github.io/gujurialekha.github.io/**
-- ⚡ Fun fact **I love to do Coding......**
+- ⚡ Fun fact **I love work Smartly......**
 
 <div> 
   <a href="https://www.linkedin.com/in/gujuri-alekha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       
